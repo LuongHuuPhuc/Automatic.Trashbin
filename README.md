@@ -1,2 +1,2 @@
 # Automatic.Trashbin
-#Cảm biến siêu âm + Servo 
+# Cảm biến siêu âm + Servo 
