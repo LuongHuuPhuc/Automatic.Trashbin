@@ -1,2 +1,3 @@
 # Automatic.Trashbin
-# Cảm biến siêu âm + Servo  						        
+# Ultrasonic sensor HC-SR04
+# Servo SG90
