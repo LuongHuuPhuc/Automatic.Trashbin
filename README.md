@@ -1,7 +1,9 @@
 # Automatic Trashbin Overview
 ***
 ## **Đây là một dự án đơn giản sử dụng được tạo ra để tăng sự tiện lợi cho việc đổ rác bình thường**
-    php echo printf (Arduino.Trashbin) 
+```php 
+printf("Trashbin");
+``` 
 ### *Một Số Ưu Điểm*
 * Thùng rác có thể nhận diện được vật thể từ khoảng cách được thiết lập (5cm - 80cm).
 * Nguồn cấp từ pin 9v với dòng xả 900mAh, thời gian dùng tối đa lên đến 1 tuần không cần sạc.
