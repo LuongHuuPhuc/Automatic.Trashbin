@@ -12,9 +12,11 @@ printf("Trashbin");
 - Cảm biến siêu âm HC-SR04.
 - Động cơ servo micro SG90 180 độ (Có thể thay đổi động cơ tùy theo nhu cầu).
 - Dây cáp TestBoard.
+- Cáp USB type A to Micro USB type B.
 ***
 ### *Yêu cầu phần mềm*
--Arduino IDE
+- Arduino IDE
+- Driver CH340 [CH340](https://sparks.gogo.co.nz/ch340.html)
 ## Sơ đồ kết nối chân 
 ![Sơ đồ](https://github.com/LuongHuuPhuc/Automatic.Trashbin/assets/156191563/235ae30f-5c02-4974-bc8d-9e61e0dc88d0)
 
